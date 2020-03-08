@@ -1,7 +1,7 @@
 # mylab
 Lab based on Raspberry
 
-# Shopping list:
+Shopping list:
 
 | Components        | Units           | Cost  |
 | ------------- |:-------------:| -----:|
