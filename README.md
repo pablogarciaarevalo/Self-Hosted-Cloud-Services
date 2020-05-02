@@ -24,7 +24,7 @@ Medidas:
 * Switch Ethernet: 9,9 x 9,9 x 2,5 cm
 
 
-![MyLab Image 1](images/cluster1.jpg =750x1000)
+![MyLab Image 1](images/cluster1.jpg)
 ![MyLab Image 1](images/cluster2.jpg =750x1000)
 
 
