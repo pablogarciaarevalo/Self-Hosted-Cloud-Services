@@ -25,6 +25,7 @@ Medidas:
 
 
 ![MyLab Image 1](images/cluster1.jpg)
-![MyLab Image 1](images/cluster2.jpg =750x1000)
+![MyLab Image 2](images/cluster2.jpg =750x1000)
 
+<img src="images/cluster1.jpg" width="750" height="1000">
 
