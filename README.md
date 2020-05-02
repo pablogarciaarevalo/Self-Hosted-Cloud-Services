@@ -1,6 +1,9 @@
 # mylab
 Lab based on Raspberry
 
+
+<img src="images/diagram.png">
+
 You can check the [hardware](/hardware.md)
 
 Things To Do
@@ -8,6 +11,7 @@ Things To Do
 * Raspberry: 10 x 7 x 3 cm
 * Four Layers Case: 120mm*100mm*72mm
 - [ ] Venus
+
 
 
 Done
