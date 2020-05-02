@@ -12,10 +12,7 @@ Shopping list:
 | [Anker PowerPort 10](https://www.amazon.es/Anker-PowerPort-10-Cargador-smartphones/dp/B00YTJ45HM) | 1 | 28 |
 | [USB 128GB](https://www.amazon.es/Memoria-Flash-SanDisk-Velocidad-Lectura/dp/B07857Y17V/) | 2 | 56 (2 x 28) |
 | [Carcasa disco 2.5 USB](https://www.amazon.es/Posugear-Sopporta-requiere-Herramientas-Transparente/dp/B077XVTTJC/) | 1 | 9 |
-| [Switch Eth USB cargador | 1 | |
-
-Optional:
-* https://www.amazon.com/gp/product/B07KX2VKCG/ref=as_li_qf_asin_il_tl?ie=UTF8
+| [Switch Eth USB cargador] | 1 | |
 
 
 Medidas:
@@ -25,3 +22,9 @@ Medidas:
 * Cargador 10 USB: 11,2 x 6,8 x 2,7 cm
 * Carcasa disco USB: 12,5 x 7,9 x 1,3 cm
 * Switch Ethernet: 9,9 x 9,9 x 2,5 cm
+
+
+![MyLab Image 1](images/cluster1.jpg)
+
+
+
