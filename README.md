@@ -5,9 +5,10 @@ This repository includes information about:
 * [Architecture & Components](/architecture.md)
 * [References](/references.md)
 
+## Tasks done and things to do
 
+### Things to do
 
-Things To Do
 - [ ] K3S
 - [ ] MetalLB
 - [ ] PiHole
@@ -19,7 +20,8 @@ Things To Do
 - [ ] TOR Gateway
 - [ ] OpenHub
 
-Done
+### Tasks done
+
 - [x] Router configuration
 * http://192.168.1.1/ user: 1234 / pass: 1234
 * DHCP: From 192.168.1.128 to 192.168.1.254
