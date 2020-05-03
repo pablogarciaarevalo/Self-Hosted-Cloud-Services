@@ -23,7 +23,7 @@ This repository includes information about:
 
 * [Container-based IoT Sensor Node on Raspberry Pi and the Kubernetes Cluster Framework](https://pdfs.semanticscholar.org/d061/772e08c312e4938782b0801d1b3910abc994.pdf)
 
-* [Awesome-Selfhosted] (https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 * [mdadm CheatSheet](http://www.seavtec.com/es/content/soporte/documentacion/mdadm-comandos-de-ayuda-mdadm-cheatsheet)
 
