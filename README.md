@@ -7,7 +7,7 @@ This repository includes information about:
 
 ## Tasks done and things to do
 
-### Things to do
+### Things to Do:
 
 - [ ] K3S
 - [ ] MetalLB
@@ -20,7 +20,7 @@ This repository includes information about:
 - [ ] TOR Gateway
 - [ ] OpenHub
 
-### Tasks done
+### Tasks Done:
 
 - [x] Router configuration
 * http://192.168.1.1/ user: 1234 / pass: 1234
