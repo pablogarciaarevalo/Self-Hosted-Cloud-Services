@@ -41,11 +41,13 @@ static routers=192.168.1.1
 static domain_name_servers=8.8.8.8
 ```
 * Current configuration
+
 | Node Name | Management IP |  Service IP  |
 | --------- |:-------------:| ------------:|
 |   node0   | 192.168.42.42 | 192.168.1.42 |
 |   node1   | 192.168.42.43 | 192.168.1.43 |
 |   node2   | 192.168.42.44 | 192.168.1.44 |
+
 * Set hostnames, change pi user password, set wifi SSID and enable SSH
 ```shell
 raspi-config
@@ -72,10 +74,14 @@ cgroup_enable=cpuset cgroup_memory=1 cgroup_enable=memory
 ```shell
 fdisk -l
 ```
-
-* Find the disks name
+* 
 ```shell
-fdisk -l
+
+```
+
+* 
+```shell
+
 ```
 
 Create a partition
