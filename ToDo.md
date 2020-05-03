@@ -8,7 +8,7 @@ This repository includes information about my own Self Hosted Cloud Services bas
 
 ## Tasks done and things to do
 
-The project current status can be check in the [Kanban board](https://github.com/pablogarciaarevalo/Self-Hosted-Cloud-Services/projects/1)
+The current project status can be check in the [Kanban board](https://github.com/pablogarciaarevalo/Self-Hosted-Cloud-Services/projects/1)
 
 The below information includes the configuration details.
 
