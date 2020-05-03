@@ -33,3 +33,6 @@ This repository includes information about:
 * [NextCloud](https://github.com/nextcloud/nextcloudpi)
 * [TOR Gateway](https://lifehacker.com/how-to-anonymize-your-browsing-with-a-tor-powered-raspb-1793869805)
 
+* [Building a Todo App with Flask in Python](https://stackabuse.com/building-a-todo-app-with-flask-in-python/)
+* [Golang News Demo Application](https://github.com/Freshman-tech/news-demo)
+* [JavaScript Autocomplete](https://www.w3schools.com/howto/howto_js_autocomplete.asp)
