@@ -8,6 +8,9 @@ This repository includes information about my own Self Hosted Cloud Services bas
 
 ## Tasks done and things to do
 
+[Kanban board](https://github.com/pablogarciaarevalo/Self-Hosted-Cloud-Services/projects/1)
+
+
 ### Things to Do:
 
 - [ ] K3S
