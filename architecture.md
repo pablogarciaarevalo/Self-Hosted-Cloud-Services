@@ -1,15 +1,16 @@
-# MyLab based on Raspberry
+# Self Hosted Cloud Services
 
-This repository includes information about:
-* [Tasks done and things to do](README.md)
-* [Architecture & Components](/architecture.md)
+This repository includes information about my own Self Hosted Cloud Services based on Kubernetes on Raspberry PI devices:
+* [Cloud Services](README.md)
+* [Tasks done and things to do](ToDo.md)
+* [Architecture & Physical components](/architecture.md)
 * [References](/references.md)
 
 ## Architecture & Components
 
 ### Architecture
 
-<img src="images/diagram.png">
+<img src="images/diagram.jpg">
 
 <img src="images/cluster1.jpg" width="325" height="500">
 
