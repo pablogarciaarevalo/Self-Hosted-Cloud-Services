@@ -41,15 +41,12 @@ static routers=192.168.1.1
 static domain_name_servers=8.8.8.8
 ```
 * Current configuration
-
 | Node Name | Management IP |  Service IP  |
 | --------- |:-------------:| ------------:|
 |   node0   | 192.168.42.42 | 192.168.1.42 |
 |   node1   | 192.168.42.43 | 192.168.1.43 |
 |   node2   | 192.168.42.44 | 192.168.1.44 |
-
-* Current Raspberry nodes: 192.168.1.42, 192.168.1.43, 192.168.1.44 / user: pi
-* Set hostname, change pi user password, set wifi SSID and enable SSH
+* Set hostnames, change pi user password, set wifi SSID and enable SSH
 ```shell
 raspi-config
 ```
@@ -62,8 +59,23 @@ ssh-copy-id pi@192.168.1.xx
 ```shell
 cgroup_enable=cpuset cgroup_memory=1 cgroup_enable=memory
 ```
-
-
+* Set local DNS resolution in /etc/hosts
+```shell
+192.168.1.42	node0
+192.168.1.43	node1
+192.168.1.44	node2
+```
 
 - [x] NFS Storage
 
+* Find the disks name
+```shell
+fdisk -l
+```
+
+* Find the disks name
+```shell
+fdisk -l
+```
+
+Create a partition
