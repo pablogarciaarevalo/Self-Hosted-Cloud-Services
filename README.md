@@ -41,6 +41,7 @@ static routers=192.168.1.1
 static domain_name_servers=8.8.8.8
 ```
 * Current configuration
+
 | Node Name | Management IP |  Service IP  |
 | --------- |:-------------:| ------------:|
 |   node0   | 192.168.42.42 | 192.168.1.42 |
