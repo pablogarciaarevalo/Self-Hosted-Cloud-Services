@@ -1,6 +1,6 @@
-# MyLab based on Raspberry
+# Self Hosted Cloud Services
 
-This repository includes information about:
+This repository includes information about my own Self Hosted Cloud Services based on Kubernetes on Raspberry PI devices:
 * [Tasks done and things to do](README.md)
 * [Architecture & Components](/architecture.md)
 * [References](/references.md)
