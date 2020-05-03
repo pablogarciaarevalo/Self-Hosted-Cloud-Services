@@ -1,8 +1,9 @@
 # Self Hosted Cloud Services
 
 This repository includes information about my own Self Hosted Cloud Services based on Kubernetes on Raspberry PI devices:
-* [Tasks done and things to do](README.md)
-* [Architecture & Components](/architecture.md)
+* [Cloud Services](README.md)
+* [Tasks done and things to do](ToDo.md)
+* [Architecture & Physical components](/architecture.md)
 * [References](/references.md)
 
 ## References
