@@ -137,8 +137,8 @@ mkdir /mnt/raid0
 mkdir /mnt/raid1
 
 vi /etc/fstab
-192.168.1.42:/mnt/raid0  /mnt/raid0   nfs    rw  0  0
-192.168.1.42:/mnt/raid1  /mnt/raid1   nfs    rw  0  0
+192.168.1.42:/mnt/raid0  /mnt/raid0   nfs    auto,users,x-systemd.automount,vers=4,nofail	0	0
+192.168.1.42:/mnt/raid1  /mnt/raid1   nfs    auto,users,x-systemd.automount,vers=4,nofail	0	0
 mount -a
 
 mount -Th
